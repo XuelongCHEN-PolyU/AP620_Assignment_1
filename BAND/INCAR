@@ -1,0 +1,17 @@
+SYSTEM = Graphene BAND
+ENCUT = 550
+ISMEAR = 0
+SIGMA = 0.001
+PREC = Accurate
+EDIFF = 1.0E-6
+EDIFFG = -0.01     
+IBRION = -1        
+NSW = 0                       
+LREAL = .FALSE.
+LWAVE = .FALSE.
+LCHARG = .FALSE.
+LPLANE = .TRUE.
+LORBIT = 11
+ICHARG = 11
+NEDOS = 3000
+ALGO = Normal

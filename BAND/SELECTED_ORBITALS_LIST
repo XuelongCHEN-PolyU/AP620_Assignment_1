@@ -1,0 +1,10 @@
+ORBITALS_ID  ORBITAL_LABEL  SELECTED?
+   1               s            T
+   2              py            T
+   3              pz            T
+   4              px            T
+   5             dxy            F
+   6             dyz            F
+   7             dz2            F
+   8             dxz            F
+   9           x2-y2            F
