@@ -1,0 +1,14 @@
+SYSTEM = Graphene SCF
+ENCUT = 550
+ISMEAR = 0
+SIGMA = 0.05
+PREC = Accurate
+EDIFF = 1.0E-6
+EDIFFG = -0.01     
+IBRION = -1        
+NSW = 0                       
+LREAL = .FALSE.
+LWAVE = .FALSE.
+LCHARG = .TRUE.
+LPLANE = .TRUE.
+LORBIT = 11
